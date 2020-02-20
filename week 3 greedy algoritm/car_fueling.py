@@ -48,23 +48,7 @@ def compute_min_refills(distance, tank, stops,s):
             else :
                 return(-1)
                 
-                    
-        
-                
-            
-            
-    
-    
-    
-    
-    
-    #    if (i==len(stops)-1): 
-#        return (s)
-#        
-#    else : 
-#        if (len(stops)>1):
-#            
-#            if ((tank- stops[i])<(stops[i+1]-stops[i]))
+
     
     
     
