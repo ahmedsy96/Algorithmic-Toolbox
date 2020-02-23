@@ -2,16 +2,7 @@
 import sys
     
         
-#def get_majority_element(a):
-#
-#    
-#    b=[0]*(max(a)+1)
-#    for i in range(len(a)): 
-#        b[a[i]]+=1
-#    if max(b)>(len(a)/2):
-#        return 1 
-#    else : 
-#        return 0
+
     
 
 
