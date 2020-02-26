@@ -19,8 +19,7 @@ def edit_distance(s, t):
                 edit[i+1][j+1] = edit[i][j]
             else : 
                 edit[i+1][j+1]= min(edit[i][j] , edit[i][j+1] , edit[i+1][j])+1 
-#            print(edit)
-#            print("****************")
+
                 
     return int(edit[s1-1][t1-1])
 
